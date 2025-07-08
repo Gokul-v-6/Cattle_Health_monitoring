@@ -1,8 +1,5 @@
-% Read the soil moisture channel data from the past two weeks.
-% Send an email and tell the user to add water if the value
-% is in the lowest 10 %.
 
-% Store the channel ID for the moisture sensor channel.
+% Store the channel ID
 channelID = 2978485;
 
 % Provide the ThingSpeak alerts API key.  All alerts API keys start with TAK.
